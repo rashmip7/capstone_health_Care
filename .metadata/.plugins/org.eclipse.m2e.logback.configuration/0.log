@@ -1,0 +1,150 @@
+2023-07-15 05:23:11,546 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-15 10:13:21,967 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-15 11:24:09,609 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.simplilearn:Simplilearn-Capstone-HealthCare-Project:1.0 @ /home/rashmipnair7gma/Documents/Health_Care_Final/Simplilearn-Capstone-HealthCare-Project/pom.xml.
+2023-07-15 11:24:10,621 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Simplilearn-Capstone-HealthCare-Project/src/main/java
+2023-07-15 11:24:10,622 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Simplilearn-Capstone-HealthCare-Project/src/test/java
+2023-07-15 11:24:10,622 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Simplilearn-Capstone-HealthCare-Project/src/test/resources
+2023-07-15 11:24:10,936 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-07-15 11:24:12,765 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 11:24:12,766 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Documents/Health_Care_Final/Simplilearn-Capstone-HealthCare-Project/src/main/resources
+2023-07-15 11:24:12,768 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 11:24:12,773 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-07-15 11:27:26,150 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 11:27:26,150 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Documents/Health_Care_Final/Simplilearn-Capstone-HealthCare-Project/src/main/resources
+2023-07-15 11:27:26,151 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 11:27:26,153 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-15 11:44:55,681 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 11:44:55,681 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Documents/Health_Care_Final/Simplilearn-Capstone-HealthCare-Project/src/main/resources
+2023-07-15 11:44:55,682 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 11:44:55,683 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Documents/Health_Care_Final/Simplilearn-Capstone-HealthCare-Project/src/test/resources
+2023-07-15 11:59:06,258 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: medicare:medicare:0.0.1-SNAPSHOT @ /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/pom.xml.
+2023-07-15 11:59:07,710 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/main/java
+2023-07-15 11:59:07,710 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /medicare/src/main/java overlaps with sources folder /medicare/src/main/java
+2023-07-15 11:59:07,717 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/test/java
+2023-07-15 11:59:08,582 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 11:59:08,588 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-07-15 11:59:08,618 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 11:59:08,618 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 11:59:08,725 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-15 11:59:09,114 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: medicare:medicare:0.0.1-SNAPSHOT @ /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/pom.xml.
+2023-07-15 11:59:10,242 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/main/java
+2023-07-15 11:59:10,243 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /medicare/src/main/java overlaps with sources folder /medicare/src/main/java
+2023-07-15 11:59:10,243 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/test/java
+2023-07-15 11:59:10,703 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for medicare
+2023-07-15 11:59:10,719 [Worker-35: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-07-15 11:59:19,179 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 11:59:19,180 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-07-15 11:59:19,192 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 11:59:19,193 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 11:59:19,198 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of medicare
+2023-07-15 11:59:19,198 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for medicare
+2023-07-15 11:59:19,217 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:02:17,545 [Worker-35: Launching Executing clean in _home_rashmipnair7gma_Downloads_HealthcareDomain_Final_medicare] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare
+2023-07-15 12:02:17,545 [Worker-35: Launching Executing clean in _home_rashmipnair7gma_Downloads_HealthcareDomain_Final_medicare] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-07-15 12:02:19,369 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:02:19,371 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-07-15 12:02:19,372 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:02:19,372 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 12:02:19,373 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of medicare
+2023-07-15 12:02:19,373 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for medicare
+2023-07-15 12:02:19,375 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:04:12,927 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:04:12,929 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-07-15 12:04:12,930 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:04:12,931 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 12:10:31,251 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-15 12:10:31,461 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: medicare:medicare:0.0.1-SNAPSHOT @ /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/pom.xml.
+2023-07-15 12:10:31,824 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/main/java
+2023-07-15 12:10:31,825 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /medicare/src/main/java overlaps with sources folder /medicare/src/main/java
+2023-07-15 12:10:31,825 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/test/java
+2023-07-15 12:10:31,982 [Worker-48: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for medicare
+2023-07-15 12:10:31,996 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-15 12:10:32,220 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:10:32,221 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-07-15 12:10:32,227 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:10:32,228 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 12:10:32,228 [Worker-41: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of medicare
+2023-07-15 12:10:32,228 [Worker-41: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for medicare
+2023-07-15 12:10:32,231 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:15:16,652 [Worker-41: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.fsd:medicarebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-07-15 12:15:16,704 [Worker-41: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.fsd:medicarebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-07-15 12:22:34,975 [Worker-50: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.fsd:medicarebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-07-15 12:22:35,007 [Worker-50: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.fsd:medicarebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-07-15 12:22:55,764 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-15 12:22:55,904 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: medicare:medicare:0.0.1-SNAPSHOT @ /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/pom.xml.
+2023-07-15 12:22:56,234 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/main/java
+2023-07-15 12:22:56,234 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /medicare/src/main/java overlaps with sources folder /medicare/src/main/java
+2023-07-15 12:22:56,235 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/test/java
+2023-07-15 12:22:56,361 [Worker-50: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for medicare
+2023-07-15 12:22:56,363 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-15 12:22:56,579 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:22:56,581 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-07-15 12:22:56,591 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:22:56,591 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 12:22:56,591 [Worker-51: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of medicare
+2023-07-15 12:22:56,591 [Worker-51: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for medicare
+2023-07-15 12:22:56,593 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:28:59,153 [Worker-54: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for medicare
+2023-07-15 12:28:59,326 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:28:59,327 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-07-15 12:28:59,329 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:28:59,329 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 12:28:59,329 [Worker-54: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of medicare
+2023-07-15 12:28:59,329 [Worker-54: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for medicare
+2023-07-15 12:28:59,332 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:29:12,889 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-15 12:29:13,050 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: medicare:medicare:0.0.1-SNAPSHOT @ /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/pom.xml.
+2023-07-15 12:29:13,375 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/main/java
+2023-07-15 12:29:13,375 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /medicare/src/main/java overlaps with sources folder /medicare/src/main/java
+2023-07-15 12:29:13,376 [Worker-57: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/test/java
+2023-07-15 12:29:13,510 [Worker-57: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for medicare
+2023-07-15 12:29:13,511 [Worker-57: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-15 12:29:13,730 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:29:13,734 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-07-15 12:29:13,740 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:29:13,741 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 12:29:13,741 [Worker-54: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of medicare
+2023-07-15 12:29:13,741 [Worker-54: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for medicare
+2023-07-15 12:29:13,745 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:30:14,680 [Worker-54: Launching Executing install in _home_rashmipnair7gma_Downloads_HealthcareDomain_Final_medicare] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare
+2023-07-15 12:30:14,680 [Worker-54: Launching Executing install in _home_rashmipnair7gma_Downloads_HealthcareDomain_Final_medicare] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2023-07-15 12:30:18,853 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:30:18,854 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-15 12:30:18,855 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:30:18,855 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 12:41:05,300 [Worker-54: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.fsd:medicarebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-07-15 12:41:05,334 [Worker-54: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.fsd:medicarebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-07-15 12:41:05,455 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:41:05,455 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-15 12:41:05,456 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:41:05,456 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 12:41:22,182 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-15 12:41:22,346 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: medicare:medicare:0.0.1-SNAPSHOT @ /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/pom.xml.
+2023-07-15 12:41:22,663 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/main/java
+2023-07-15 12:41:22,663 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /medicare/src/main/java overlaps with sources folder /medicare/src/main/java
+2023-07-15 12:41:22,663 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medicare/src/test/java
+2023-07-15 12:41:22,769 [Worker-61: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for medicare
+2023-07-15 12:41:22,771 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-15 12:41:22,898 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:41:22,900 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-07-15 12:41:22,908 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:41:22,908 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 12:41:22,908 [Worker-64: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of medicare
+2023-07-15 12:41:22,908 [Worker-64: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for medicare
+2023-07-15 12:41:22,911 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:46:17,444 [Worker-67: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.fsd:medicarebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-07-15 12:46:17,481 [Worker-67: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.fsd:medicarebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-07-15 12:47:27,047 [Worker-69: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.fsd:medicarebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-07-15 12:47:27,079 [Worker-69: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.fsd:medicarebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-07-15 12:53:08,288 [Worker-71: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: medicare:medicare:0.0.1-SNAPSHOT @ /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/pom.xml.
+2023-07-15 12:53:08,576 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:53:08,578 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-15 12:53:08,579 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 12:53:08,580 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources
+2023-07-15 12:53:08,580 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of medicare
+2023-07-15 12:53:08,580 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for medicare
+2023-07-15 12:53:08,582 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 13:06:13,318 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 13:06:13,319 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-15 13:06:13,320 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-15 13:06:13,320 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/test/resources

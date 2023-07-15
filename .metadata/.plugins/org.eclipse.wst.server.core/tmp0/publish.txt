@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Jul 15 13:06:14 UTC 2023
+org.eclipse.jst.jee.server\:/binary\:/home/rashmipnair7gma/Downloads/HealthcareDomain_Final/medicare/src/main/webapp/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar=WEB-INF/lib/spring-web-4.3.6.RELEASE.jar
+org.eclipse.jst.j2ee.server\:Simplilearn-Capstone-HealthCare-Project=WEB-INF/lib/Simplilearn-Capstone-HealthCare-Project.jar

@@ -1,0 +1,260 @@
+{
+	"info": {
+		"_postman_id": "7f0d1a12-b368-431e-ab97-b303517cd006",
+		"name": "Medicare",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26809528"
+	},
+	"item": [
+		{
+			"name": "View Product - Antipyretics",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"View Product - Antipyretics\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Product name - Paracetamol matched\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"Paracetamol\");\r",
+							"});\r",
+							"pm.test(\"Product name - Combiflame matched\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"Combiflame\");\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{medicare_baseurl}}json/data/category/1/products",
+					"host": [
+						"{{medicare_baseurl}}json"
+					],
+					"path": [
+						"data",
+						"category",
+						"1",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Site Availability - Valid url",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Site Availability - Valid url\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Contains Medicare - Home in response body\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"Medicare - Home\");\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{medicare_baseurl}}home",
+					"host": [
+						"{{medicare_baseurl}}home"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Site Availability - Invalid url",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Site Availibility - Invalid url\", function () {\r",
+							"    pm.response.to.have.status(404);\r",
+							"pm.test(\"Response Body contains 404\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"404 – Not Found\");\r",
+							"});\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5050/medicare3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"medicare3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ViewProduct",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"View Product\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Medicare - Paracetamol matched\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"Medicare - Paracetamol\");\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{medicare_baseurl}}show/1/product",
+					"host": [
+						"{{medicare_baseurl}}show"
+					],
+					"path": [
+						"1",
+						"product"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "View Product - Analgesics",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"View Product - Analgesics\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Product name - Diclofenac matched\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"Diclofenac\");\r",
+							"});\r",
+							"pm.test(\"Product name - Aceclofenac matched\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"Aceclofenac\");\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{medicare_baseurl}}json/data/category/2/products",
+					"host": [
+						"{{medicare_baseurl}}json"
+					],
+					"path": [
+						"data",
+						"category",
+						"2",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "View Product - Antibiotics",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"View Product - Antibiotics\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Product name - Amoxicillin matched\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"Amoxicillin\");\r",
+							"});\r",
+							"pm.test(\"Product name - Ciprofloxacin matched\", function () {\r",
+							"    pm.expect(pm.response.text()).to.include(\"Ciprofloxacin\");\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{medicare_baseurl}}json/data/category/3/products",
+					"host": [
+						"{{medicare_baseurl}}json"
+					],
+					"path": [
+						"data",
+						"category",
+						"3",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "View Product - New Product",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"View Product - New Product\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{medicare_baseurl}}show/7/product",
+					"host": [
+						"{{medicare_baseurl}}show"
+					],
+					"path": [
+						"7",
+						"product"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
